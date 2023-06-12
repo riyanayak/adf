@@ -1,0 +1,9 @@
+{
+	"name": "t-riyanayak",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7d796628-6779-4961-a839-4db1eadcf961",
+		"tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47"
+	}
+}
